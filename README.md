@@ -8,5 +8,5 @@ You should be able to see "Enter your input: " in the console.
 
 Now provide the items list  for example : Shirt Trousers Tie Jacket (with space between each item and with out any commas) and hit enter.
 
-You should e able to see the output.
+You should be able to see the output.
 
